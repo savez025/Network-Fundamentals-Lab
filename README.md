@@ -1,6 +1,5 @@
 # Network-Fundamentals-Lab
 Learning networking concepts for cybersecurity including IP addresses, DNS, protocols, ports, and network troubleshooting.
-# Network Fundamentals Lab
 
 This repository documents my learning journey of networking concepts used in cybersecurity.
 
